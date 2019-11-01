@@ -6,6 +6,6 @@ Hitchens's razor is an English translation of the Latin proverb _quod grātīs a
 
 ~~~yaml references
 Reinhardt2015:
-    text: "Reinhardt, Damion (25 July 2015). \"The Long History of Hitchens' Razor\". Skeptic Ink. Retrieved 31 March 2017"
-    url: "http://www.skepticink.com/backgroundprobability/2015/07/25/the-long-history-of-hitchens-razor"
+  text: "Reinhardt, Damion (25 July 2015). \"The Long History of Hitchens' Razor\". Skeptic Ink. Retrieved 31 March 2017"
+  url: "http://www.skepticink.com/backgroundprobability/2015/07/25/the-long-history-of-hitchens-razor"
 ~~~
