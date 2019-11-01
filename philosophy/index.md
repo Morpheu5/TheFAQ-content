@@ -1,3 +1,3 @@
 # Philosophy
 
-All things phylosophical.
+All things philosophical.
