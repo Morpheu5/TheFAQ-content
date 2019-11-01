@@ -8,9 +8,11 @@ For a historical perspective, please see [Hercule's fifth labor](https://en.wiki
 
 ~~~yaml references
 Twitter2013:
-  text: "Brandolini, Alberto (11 January 2013). Twitter.com. Retrieved 1 November 2019."
+  text: "Brandolini, Alberto (11 January 2013). Twitter.com."
   url: "https://twitter.com/ziobrando/status/289635060758507521"
+  retrieved_on: 2019-11-01
 Uriel2010:
-  text: "Fanelli, Uriel (26 March 2010). La teoria della montagna di merda®. Retrieved 1 November 2019."
+  text: "Fanelli, Uriel (26 March 2010). La teoria della montagna di merda®."
   url: "https://urielfanelli.altervista.org/keinpfusch/la-teoria-della-montagna-di-merda/2010-03-26/"
+  retrieved_on: 2019-11-01
 ~~~
