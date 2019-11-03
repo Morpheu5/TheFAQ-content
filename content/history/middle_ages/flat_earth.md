@@ -8,7 +8,7 @@ The early Christian philosophers believed the Earth to be spherical [DeGenesi], 
 
 The medieval emperors widely used the _Globus Cruciger_ [GlobusCruciger], an orb representing the Earth surmounted by a cross, as a symbol of their power over the globe.
 
-```yaml references
+~~~yaml references
 DeGenesi:
   text: Augustine of Hippo (415 AD). De Genesi ad Litteram. Book I, 10.21.
   url: https://books.google.it/books?id=_s0kIgD0nCcC
@@ -24,5 +24,4 @@ GlobusCruciger:
   url: https://en.wikipedia.org/wiki/Globus_cruciger
   lang: eng
   retrieved_on: 2019-11-01
-```
-
+~~~
