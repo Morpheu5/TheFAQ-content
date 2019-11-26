@@ -51,7 +51,7 @@ The alleged common characteristics between Jesus and Dionysus are:
 * They both transformed water into wine. False: there are no reference to this miracle in the myth of Dionysus.
 * They both were called "holy baby". False: Dionysus was not worshipped as a baby.
 
-~~~yaml  references
+~~~yaml references
 HorusAncient:
   text: Horus. Ancient History Encyclopedia.
   url: https://www.ancient.eu/Horus/
