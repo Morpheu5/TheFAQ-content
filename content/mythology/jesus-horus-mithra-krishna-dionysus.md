@@ -29,7 +29,7 @@ The alleged common characteristics between Jesus and Mithra are:
 * They were both announced by a comet. False: there is no reference to a comet in any Mithraic myth.
 * They both had twelve followers. False: in the Persian myth, Mithra had one companion. In the Roman myth, he had two companions: Cautes and Cautopates [MithraTertullian]
 * They both performed miracles. True. Duh.
-* They were both dead for three days and rose back. False: fhere is absolutely no reference to Mithra's death in the Mithraic mythology.
+* They were both dead for three days and rose back. False: there is absolutely no reference to Mithra's death in the Mithraic mythology.
 
 ## Krishna
 
