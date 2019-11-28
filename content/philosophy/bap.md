@@ -10,7 +10,7 @@ For a historical perspective, please see [Hercule's fifth labor](https://en.wiki
 Twitter2013:
   text: Brandolini, Alberto (11 January 2013). Twitter.com.
   url: https://twitter.com/ziobrando/status/289635060758507521
-  lang: ita
+  lang: eng
   retrieved_on: 2019-11-01
 Uriel2010:
   text: Fanelli, Uriel (26 March 2010). La teoria della montagna di merda®.
