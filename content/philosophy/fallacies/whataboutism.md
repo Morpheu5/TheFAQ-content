@@ -6,12 +6,12 @@ Further reading: [Whataboutism](https://en.wikipedia.org/wiki/Whataboutism) on W
 
 ~~~yaml references
 Lexico:
-  text: "Whataboutism". Lexico.com.
+  text: \"Whataboutism\". Lexico.com.
   url: https://www.lexico.com/en/definition/whataboutism
   lang: eng
   retrieved_on: 2019-11-28
 Economist:
-  text: "Whataboutism -- Come again, Comrade?". Economist.com.
+  text: \"Whataboutism -- Come again, Comrade?\". Economist.com.
   url: https://www.economist.com/europe/2008/01/31/whataboutism
   lang: eng
   retrieved_on: 2019-11-28
